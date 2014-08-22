@@ -19,6 +19,7 @@ public class MyActivity extends Activity implements View.OnClickListener {
      */
 
     Button button1,button2;
+	String str;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
